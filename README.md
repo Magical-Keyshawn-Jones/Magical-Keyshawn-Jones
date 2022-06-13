@@ -1,4 +1,4 @@
-~Thanks for showing up. Please enjoy your stay~
+Thanks for showing up. Please enjoy your stay
 
 -I'm currently working on Full Stacked Developement
 -Ask me about Anime, Video games, and my nicknames
