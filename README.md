@@ -1,10 +1,14 @@
-### Wassup! 👋
+~Thanks for showing up. Please enjoy your stay~
 
-<!--
-**Magical-Keyshawn-Jones/Magical-Keyshawn-Jones** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-I'm currently working on Full Stacked Developement
+-Ask me about Anime, Video games, and my nicknames
+-How to reach me: Best way to reach me is by email
+-Fun Fact: A fox showed up at my school one time
 
-Here are some ideas to get you started:
 
+
+
+<!-- 
 - 🔭I'm currently working on Full Stacked Developement
 - 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on ...
