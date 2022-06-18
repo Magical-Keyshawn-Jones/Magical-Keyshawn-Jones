@@ -3,7 +3,7 @@ Thanks for showing up. Please enjoy your stay
 -I'm currently working on Full Stacked Developement
 -Ask me about Anime, Video games, and my nicknames
 -How to reach me: Best way to reach me is by email
--Fun Fact: A fox showed up at my school one time
+-Fun Fact: I love going out of my way to help people
 
 
 
