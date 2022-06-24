@@ -1,21 +1,3 @@
 Thanks for showing up. Please enjoy your stay
 
--I'm currently working on Full Stacked Developement
--Ask me about Anime, Video games, and my nicknames
--How to reach me: Best way to reach me is by email
--Fun Fact: I love going out of my way to help people
-
-
-
-
-
-<!-- 
-- 🔭I'm currently working on Full Stacked Developement
-- 🌱 I’m currently learning React
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with doing well on Code Academy Assessment
-- 💬 Ask me about coding, hacks, anime, and video games
-- 📫 How to reach me: Best way to reach is likely by email
-- 😄 Pronouns: ...
-- ⚡ Fun fact: I'm am the Greatest
--->
+I'm currently working on Full Stack Developement. Ask me about anime, video games, and and my nicknames. Fun fact, I genuinely love to go out of my way to help people because it's honestly really fun for me. Best way to reach me is by email, KeyshawnJones29@gmail.com. My linkedIn is https://www.linkedin.com/in/keyshawn-jones-a399a122a/. You can find my twitter here https://twitter.com/KeyshawnBatman.
