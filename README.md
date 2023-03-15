@@ -5,8 +5,6 @@
 
 - 📫 How to reach me **Keyshawnjones29@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1nPPaJ3IXBLdc8Mb_5HXHvvWGmfuH7KwUV3Gi7hTjDt4/edit?usp=sharing](https://docs.google.com/document/d/1nPPaJ3IXBLdc8Mb_5HXHvvWGmfuH7KwUV3Gi7hTjDt4/edit?usp=sharing)
-
 - ⚡ Fun fact **Helping others is genuinely fun for me**
 
 <h3 align="left">Connect with me:</h3>
